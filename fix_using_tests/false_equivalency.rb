@@ -13,7 +13,7 @@ end
 
 def selection(num)
   if num = 2
-    #binding.pry
+    binding.pry
      "YUM YUM MUNCH MUNCH MUNCH"
   elsif num = 1
     #binding.pry
